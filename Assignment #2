@@ -1,0 +1,30 @@
+---
+title: 'Assisgnment #2 Summary'
+author: "Miles Weinberger"
+date: "September 12, 2015"
+output: html_document
+---
+
+## Summary of Graph Badly/Gospel
+
+In How to Graph Badly or What NOT to Do, it is explained that the goal of good graphics is to display data clearly and accurately. In this chapter, the author explains the good, the bad, and the ugly of graphs and mistakes that are/can be made. The author talks about the types of errors that graph makers commit but also talk about how readers can perceive the graphs. An example that is shown in the chapter is that people have a much more difficult time at estimating areas than lengths. This mistake is commonly made in scientific graphs with scientists and engineers. Edward Tufte in this article explains many of the mistakes that are made including improper font usage, moiré shading, 3-D, and color issues. The most interesting term he uses to describes graphs and charts is “Chartjunk”. This is when extraneous features add nothing to the information of a graph.
+
+
+One of the dangers Tufte alerts the readers about is overinterpretation. He explains how scientists and engineers mistakenly over-interpret the data. Another term he uses is called “Graphical Carpet Bombing”. This is when students make graphs that are all usually the same time and make the thesis of their experiments even more monotonous for readers. While Tufte focuses on a lot of the negatives that can come about with graphing, he and Wainer reiterate the excellence of high-density illustrations. These illustrations have the ability to pack a tremendous amount of information into one graph/chart.
+
+
+Lastly, Tufte says that the context of a graph is one of the most important factors to a graph. It has been stated that the main function of graphs is to make comparisons and if a graph lacks proper context, it will fail to facilitate the comparisons needed. He goes on to explain that the illegible labels on graphs can cause confusion in explaining the context. If the type size is too small, the placement is poor, or there are not enough labels, this can make it very difficult for readers to understand what the graph is measuring.
+
+
+In the Gospel According to Tufte, one of his major themes is that good graphics are able to present their message as simply as possible. Within many of Tufte’s great ideas, one includes the practical idea of “Data-Ink”, the non-erasable core of a graphic. He goes on to elaborate the five laws of Data Ink: show the data, maximize the data-ink ratio, erase non-data-ink, erase redundant data-ink, and revise and edit. Out of those five, the most important maxim is showing the data. 
+	
+	
+In addition to showing the data, how it is presented to the readers is extremely vital to a sufficient graph. For an example, teachers have their students write their essays beginning with a “topic sentence” that summarizes what the essay is on. Tufte explains that topic sentences are also important for visualization as exploratory graphs can show something to the readers such as the variation of growth rates in Fortune 500 companies in the past five years or whatever it may be. 
+	
+	
+As it was mentioned earlier, Tufte believes that good graphics have high “data density”. Data density is calculated as the number of entries in data array divided by the area of the data graphic. The goal in high-density graphs is to find a way to put a lot of information (curves, points, arrows, labels) in a small area and be able to identify key themes and goals. While high data density graphs are great and all, we should not forget the fundamental principles of a good graph: clear labels, clear theme, etc.
+	
+	
+One of the more interesting graphs I found in this article is a Tufte’s “level-crossing” diagram. His usage of this diagram to compare taxes as a percentage of GDP for two different years in many different countries was quite interesting. Before reading this article, I had never seen a graph like this in my life. It showed me a new way to show data that is not in a typical graph/chart. This graph at first for me was hard to depict but Tufte explains the importance of separation and layering. Separation is in regards to physical proximity such as how close the label is from the curve or graph to show what element is supposed to be identified. Layering is an extremely essential part in separation. With regards to space, line style, and font, layering helps groups of elements that are distinct to remain that way when presented in a graph or chart.
+		
+
