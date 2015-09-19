@@ -1,0 +1,20 @@
+---
+title: "Communicating Numbers Summary"
+author: "Miles Weinberger"
+date: "September 19, 2015"
+output: pdf_document
+---
+In this article, the author Stephen Few's main point that is made is the importance of quantitative information to a business. Quantitative information is presented in the forms of graphs and shows numbers that can represent performance, opportunities, and even forecast the future for businesses and companies. When it comes to charts, Few believes that the best type of graph is one that does not complicate a simple message. The goal of a graph or table to communicate information or data that can lead to understanding. The two fundamental stages when selecting and constructing a graph are: 1) Determine your message and identify the data necessary to communicate it and 2) Determine if a table, graph, or combination of both is needed to communicate your message.
+
+When presenting quantitative data, you have a choice between choosing a table or a graph. A table presents the data in the form of text and is arranged in columns and rows. While a graph, expresses the data as a picture or is displayed along one or more axes.Graphs consist of one scale being quantitiative and another scale being categorical. Categorical scale comes in 3 distinct forms: nominal, ordinal, and interval.Nominal sclaes have no particular order and do not have quantitative values. Ordinal scales have an intrinsic order and again do not represent quantitative values. Lastly, interval scales consist of items that are in an intrinsic order but unlike the other two types of scales, they represent quantitative values.
+
+<img src="http://cdn.information-management.com/media/assets/article/1023904/few_fig3.gif" alt="some_text">
+
+Within the realm of business data, the relationships can be classified into seven types. These types include: Time-Series Relationships, Ranking Relationships, Part-to-While Relationships, Deviation Relationships, Distribution Relationships, Correlation Relationships,and Nominal Comparison Relationships. Of these seven types of relationships, the ones I prefer to use are Time-Series and Correlation. In a Time-Series Relationship, quantitative values are shown over a period of time. That period of time can be represented through years, quarters, months, weeks, days, etc. Time series can reveal patterns and trends that are very meaningful for the readers. The reason why I like to use Correlation Relationships is because you can measure two different quantitative values and try to find a relationship between the two. Understanding correlations and the relationships between two different quantitative values can help predict behaviors/trends/etc.
+
+With encoding quantitative data into graphs, there are four types of objects that do a great job of presenting the data clearly. The four types of objects for ending values are points, lines, bars, and boxes. I prefer to use lines in my graphs because show the shape of the data over time as it moves from point to point. An example of a line graph would be to show the revenues of the company over a ten year span with the line representing the ups and downs of revenue over the time span. With respect to all these graphs and the primary message being held in the picture, text is almost always required. Text can provide clarity to readers if they are having a difficult time understanding what the picture is showing. Some examples of text include titles and axis titles.
+
+When you're all done with your graphs, another option you can do is highlight a particular data set within the graph to make a strong point. An example would be if you are showing the amount of home runs Barry Bonds hit throughout his career. You would highlight the year when he hit 72 home runs to show that this feat was rare and important in baseball. Some ways of how to do this are using bright or different colors, or outlining the bar used. Overall, this article was a great read and I learned a ton about how to make and present the best graphs possible.
+
+
+
